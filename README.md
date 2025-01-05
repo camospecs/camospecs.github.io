@@ -11,4 +11,4 @@ As a guide, below is a list of features / projects I want to include.
 - Literally anything can be posted. From book reviews to techy stuff.
 - Site needs to be appealing on most screen sizes.
 - A page dedicated to future projects.
-
+.
