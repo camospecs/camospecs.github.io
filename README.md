@@ -1,7 +1,4 @@
----
-title: Project Ideas
-date: 2025-01-05
----
+
 
 # Camospecs' personal website project!
 This repo is my attempt to create a digital journal of projects, things I find interesting and other happenings in my life.
