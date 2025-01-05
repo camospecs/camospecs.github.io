@@ -9,7 +9,7 @@ Hello! Elastic Compute Cloud (EC2) is an IaaS platform provided by Amazon Web Se
 
 As a little freebie, Amazon give new users 750hrs of credit to use each month for 12 months. Not bad! However, as you’ll see throughout this guide, this is limited to their ‘free tier’ products so be careful when selecting your choices! The instance hosting this site uses a static IP which costs money. Here’s a snippet of the cost:
 
-![aws_costs.png](https://github.com/camospecs/camospecs.github.io/blob/main/images/aws_costs.png)
+![aws_costs](/docs/assets/images/aws_costs.png)
 
 But don’t worry! You can still host a website without these costs. Just stick to the free tier options and don’t bother with a static IP.
 
@@ -24,8 +24,8 @@ So without further ado, I’m going to explain how I got this website up and run
 *Note. I’d highly recommend you use an account without an overdraft or funds. I had a situation with Google where I forgot about a VM for awhile and was billed £300. Don’t worry though, I contacted them and they were happy to refund it. I’m not sure if Amazon would be as forgiving…
 
 - Once on the AWS homepage, navigate to the EC2 dashboard and select ‘Launch Instance’. Here you’ll be prompted with the instance creation page.
-![ec2_launch_instance.png](https://github.com/camospecs/camospecs.github.io/blob/main/images/ec2_launch_instance.png)
-- Select an appropriate name for the instance. Something like ‘webserver’ or your website domain name.![images/ec2_naming.png](https://github.com/camospecs/camospecs.github.io/blob/main/images/ec2_naming.png)
+![ec2_launch_instance.png](/docs/assets/images/ec2_launch_instance.png)
+- Select an appropriate name for the instance. Something like ‘webserver’ or your website domain name.![images/ec2_naming.png](/docs/assets/images/ec2_naming.png)
 - Select ‘Ubuntu’ as the OS with the following AMI. You can choose another if you wish, however, the following steps may be different.
 
 - Select the t2.**micro** instance type. This is the free tier option as of time of writing.
