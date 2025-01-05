@@ -1,2 +1,4 @@
 title: Camospecs Blog
-remote_theme: ronv/sidey
+remote_theme: minima
+minima:
+  skin: dark
