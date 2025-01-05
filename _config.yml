@@ -5,6 +5,7 @@ minima:
   skin: dark
   social_links:
     - { platform: github,  user_url: "https://github.com/camospecs" }
+    - { platform: x,  user_url: "https://x.com" }
 
 description: >
   A digital collection of projects I've attempted and anything else I think worthy of 
