@@ -1,6 +1,7 @@
 ---
 title: EC2 Instances
 date: 2025-01-05
+layout: post
 ---
 
 Hello! Elastic Compute Cloud (EC2) is an IaaS platform provided by Amazon Web Services and is what I use to host this very website.
