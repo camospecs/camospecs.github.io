@@ -2,3 +2,5 @@ title: Camospecs Blog
 remote_theme: jekyll/minima
 minima:
   skin: dark
+
+permalink: /:title.html
