@@ -1,8 +1,3 @@
----
-title: Camospecs Website Project
-date: 2025-01-05
-layout: home
----
 
 This repo is my attempt to create a digital journal of projects, things I find interesting and other happenings in my life.
 
