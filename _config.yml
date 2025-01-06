@@ -11,8 +11,7 @@ description: >
   A digital collection of projects I've attempted and anything else I think worthy of 
   note.
 
-header_files:
-  - about.md
+header_pages:
   - useful-links.md
   
 
