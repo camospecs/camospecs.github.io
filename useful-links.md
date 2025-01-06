@@ -10,7 +10,7 @@ A list of links to resources that I've found useful.
 
 ### The Great Outdoors 
 [Trigpointing Database](https://trigpointing.uk/info/trigpoints.php)
-[Another Trigpointing Database (with Blog)](https://lonewalker.net/trigtable.php)
+[Another Trigpointing Database with Blog](https://lonewalker.net/trigtable.php)
 
 ### Misc
 [Cheap 2nd hand book search.](https://www.bookfinder.com/)
