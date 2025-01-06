@@ -17,3 +17,8 @@ header_pages:
 
 permalink: /:categories/:title.html
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:categories:output_ext
+
