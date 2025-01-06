@@ -6,6 +6,7 @@ A list of links to resources that I've found useful.
 
 ### Techy Links
 [RegEx Tester](https://regex101.com/)
+[Free C course](https://beej.us/guide/)
 
 ### The Great Outdoors 
 [Trigpointing Database](https://trigpointing.uk/info/trigpoints.php)
