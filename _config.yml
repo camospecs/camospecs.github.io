@@ -15,5 +15,5 @@ header_pages:
   - useful-links.md
   
 
-permalink: /:collections/:title.html
+permalink: /:categories/:title.html
 

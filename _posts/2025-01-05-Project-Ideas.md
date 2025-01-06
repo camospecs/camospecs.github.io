@@ -1,6 +1,7 @@
 ---
 title: Project Ideas
 layout: post
+categories: project
 ---
 This is a live post and is purely for my own notes. Feel free to have a read though!
 

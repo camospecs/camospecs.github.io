@@ -2,6 +2,7 @@
 title: EC2 Instances
 date: 2025-01-04
 layout: post
+categories: AWS
 ---
 
 
