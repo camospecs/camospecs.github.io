@@ -1,6 +1,6 @@
 ---
 title: Project Ideas
-layout: post
+layout: page
 ---
 This is a live post and is purely for my own notes. Feel free to have a read though!
 
