@@ -5,7 +5,6 @@ layout: post
 categories: AWS
 ---
 
-
 Hello! Elastic Compute Cloud (EC2) is an IaaS platform provided by Amazon Web Services.
 
 As a little freebie, Amazon give new users 750hrs of credit to use each month for 12 months. Not bad! However, as you’ll see throughout this guide, this is limited to their ‘free tier’ products so be careful when selecting your choices! The instance hosting this site uses a static IP which costs money. Here’s a snippet of the cost:

@@ -19,7 +19,7 @@ As a guide, below is a list of features / projects I want to include.
     
 - [ ] Blogs will be categorised. I should be able to make categories on the fly and not have 3 or 4 that are just set in stone...
     
-- [ ] Literally anything can be posted. From book reviews to techy stuff.
+- [x] Literally anything can be posted. From book reviews to techy stuff.
 
 - [x] Site needs to be appealing on most screen sizes.
 

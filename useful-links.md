@@ -15,6 +15,7 @@ A list of links to resources that I've found useful.
 ### The Great Outdoors 
 - [Trigpointing Database](https://trigpointing.uk/info/trigpoints.php): Used to download trigpoint locations and their status.
 - [Trigpointing Database with Blog](https://lonewalker.net/trigtable.php): Another trigpointing data base hosted by the lonewalker.
+- [Bow drill fire](https://www.youtube.com/watch?v=_tpBCflcekU) - Making a fire with a bow.
 
 ### DIY
 - [Plastering a brick wall](https://plasteringforbeginners.co.uk/how-to-plaster-a-brick-wall/): Handy guide I followed to plaster a wall.
