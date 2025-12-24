@@ -7,10 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/camospecs",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+
   }),
 }
 
