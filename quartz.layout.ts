@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
+      GitHub: "https://github.com/camospecs",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "Explorer",
+      title: "Topics",
       folderClickBehavior: "collapse",
       folderDefaultState: "collapsed",
       useSavedState: true,

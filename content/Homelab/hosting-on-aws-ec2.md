@@ -1,3 +1,12 @@
+---
+title: Hosting on AWS EC2 (Free Tier Guide)
+date: 2025-12-23
+tags:
+  - aws
+  - ec2
+  - webserver
+---
+
 Hello! Elastic Compute Cloud (EC2) is an IaaS platform provided by Amazon Web Services and is what I use to host this very website.
 
 As a little freebie, Amazon give new users 750hrs of credit to use each month for 12 months. Not bad! However, as you’ll see throughout this guide, this is limited to their ‘free tier’ products so be careful when selecting your choices! The instance hosting this site uses a static IP which costs money. Here’s a snippet of the cost:

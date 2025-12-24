@@ -27,30 +27,30 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(118, 104, 199, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+colors: {
+  lightMode: {
+    light: "#faf8f8",
+    lightgray: "#e5e5e5",
+    gray: "#b8b8b8",
+    darkgray: "#4e4e4e",
+    dark: "#2b2b2b",
+    secondary: "#284b63",
+    tertiary: "#84a59d",
+    highlight: "rgba(143, 159, 169, 0.15)",
+    textHighlight: "#fff23688",
+  },
+  darkMode: {
+    light: "#161618",           // Deep charcoal background
+    lightgray: "#393639",       // Code blocks/borders
+    gray: "#646464",            // Dates/Meta text
+    darkgray: "#d4d4d4",        // Main body text (soft white)
+    dark: "#ebebec",            // Headings (bright white)
+    secondary: "#7bdca8",       // Links/Active (Matrix Green)
+    tertiary: "#489e72",        // Hover states (Darker Green)
+    highlight: "rgba(123, 220, 168, 0.15)", // Callout background
+    textHighlight: "#7bdca888", // Highlighted text
+  },
+},
     },
   },
   plugins: {
