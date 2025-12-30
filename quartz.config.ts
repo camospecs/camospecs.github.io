@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "camospecs.github.io",
+    baseUrl: "camospecs.uk",
     ignorePatterns: ["private", "templates", ".obsidian", "drafts"],
     defaultDateType: "created",
     theme: {
